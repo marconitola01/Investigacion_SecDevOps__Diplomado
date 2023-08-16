@@ -88,19 +88,19 @@ Para implementar seguridad de DevOps se debe contar con previo conocimiento de u
 
 a continuacion una lista de herramientas que se pueden usar para realizar procesos de SecDevOps
 
-1.GitHub
+1.[GitHub](https://github.com/) :file_folder:
 : es un servicio web que permite al usuario almacenar, compartir e interactuar con código fuente utilizando Git como sistema de control de versiones
 
-2.Jenkins
+2.[Jenkins](https://www.jenkins.io/) :wrench:
 : es una de las herramientas DevOps de integración continua que tiene más ventajas sobre otras gracias a sus extensiones de plugins internos y externos. 
 
-3.Nagios
+3.[Nagios](https://www.nagios.org/) :camera:
 : se trata de un instrumento de monitoreo que te ayuda a ejecutar cosas de forma segura. Puede actuar como tu centro de control para aplicaciones, infraestructura empresarial y servidores. Es ideal para las necesidades de las grandes organizaciones
 
-## _Cualidades de SecDevOps_
+A continuacion diagrama de implementacion SecDevOps sugerido por microsoft al usar el servicio en la nube _[AZURE](https://azure.microsoft.com/es-es/)_
 
 
-1. # 
+ ![Imagen de apoyo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/solutions_devsecops_devsecops-in-azure?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1227&qlt=100&fit=constrain)
 
 
 
