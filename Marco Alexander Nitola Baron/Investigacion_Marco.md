@@ -67,6 +67,11 @@ La implementacion de SecDevOps implica grandes beneficios durante el desarrollo 
 ## _Ciclo de vida SecDevOps_
 
 
+<p class="clase-html">
+  <span>Cloque de código HTML</span>
+</p>
+
+
 
 
 ## _Cualidades de SecDevOps_
