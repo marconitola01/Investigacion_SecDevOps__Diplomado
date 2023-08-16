@@ -25,7 +25,8 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 ## _Beneficios_
 
   La implementacion de SecDevOps implica grandes beneficios durante el desarrollo y tambien durante la   puesta a produccion de software
-
+<br>
+<br>
 
 1. **Entrega de software rápida y rentable**3
 
@@ -35,9 +36,10 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 
 ![Imagen de apoyo](https://i0.wp.com/sonria.com/wp-content/uploads/2016/07/negocio.jpg?fit=1600%2C1038&ssl=1)
 
+<br>
+<br>
 
-
-1. **Seguridad proactiva y mejorada**
+2. **Seguridad proactiva y mejorada**
 
  SecDevOps introduce procesos de ciberseguridad desde el inicio del ciclo de desarrollo. A lo largo del ciclo de desarrollo, el código se revisa, se audita, se explora y se prueba en busca de problemas de seguridad. Estos problemas se abordan tan pronto como se identifican. Los problemas de seguridad se solucionan antes de introducir dependencias adicionales. Los problemas de seguridad son menos costosos de arreglar cuando se identifica y se implementa la tecnología de protección en las etapas iniciales del ciclo.
 
@@ -46,9 +48,10 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 
 ![Imagen de apoyo](https://i.ytimg.com/vi/G9oWJzd0rLA/maxresdefault.jpg)
 
+<br>
+<br>
 
-
-1. **Aplicación acelerada de parches a vulnerabilidades de seguridad**
+3. **Aplicación acelerada de parches a vulnerabilidades de seguridad**
 
  Puesto que SecDevOps integra la exploración de vulnerabilidades y la aplicación de parches en el ciclo de publicación, la capacidad de identificar y aplicar parches a las vulnerabilidades y exposiciones comunes (CVE) disminuye. De este modo, se limita el periodo de tiempo del que disponen los actores de amenazas para aprovechar las vulnerabilidades en los sistemas de producción de cara al público.
 
@@ -57,14 +60,19 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 
 ![Imagen de apoyo](https://aratecnia.es/wp-content/uploads/2021/10/parches-software-que-son.jpg)
 
+<br>
+<br>
 
-1. **Automatización compatible con el desarrollo moderno**
+4. **Automatización compatible con el desarrollo moderno**
 
  Las pruebas automatizadas pueden garantizar que los niveles de parche de las dependencias de software incorporadas sean adecuados y confirmar que el software pasa las pruebas de la unidad de seguridad. Además, pueden probar y proteger el código con análisis estático y dinámico antes de que la actualización final pase a producción.
 
  **Palabaras clave:** _pruebas_, _automatizacion_, _dependencias_, _seguridad_.
 
  ![Imagen de apoyo](https://automatizacion-industrial.es/images/easyblog_articles/7/AUTOMATIZACION_PROFESIONAL.jpg)
+
+<br>
+<br>
 
 5. **Un proceso repetible y adaptativo**
 
@@ -118,4 +126,10 @@ A continuacion diagrama de implementacion SecDevOps sugerido por microsoft al us
 
 
 ## _Referencias_
+
+- https://azure.microsoft.com/en-us/solutions/devsecops/#tabx43d18739f55e4414a04c1a313f2a0912
+
+- https://docs.microsoft.com/en-us/learn/modules/secure-your-cloud-data/?ns-enrollment-
+- https://www.cronup.com/devsecops-los-7-factores-claves-para-asegurar-su-practica-devops/
+- https://www.redhat.com/es/topics/devops/what-is-devsecops
 
