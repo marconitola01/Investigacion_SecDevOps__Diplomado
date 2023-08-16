@@ -17,11 +17,19 @@ La implementacion de SecDevOps implica grandes beneficios durante el desarrollo 
 
 1. Entrega de software rápida y rentable
 
+La entrega rapida y segura de SecDevOps permite ahorrar tiempo y reducir los costos minimizando la necesidad de repetir procesos de desarrollo para dar solucion a problemas de seguridad, el resultado es un procesos de entrega mas rapido, rentable y seguro ya que al integrar practicas de SecDevOps se obtiene un codigo mas seguro.
+
+
 2. Seguridad proactiva y mejorada
+
+
 
 3. Aplicación acelerada de parches a vulnerabilidades de seguridad
 
+
+
 4. Automatización compatible con el desarrollo moderno
+
 
 5. Un proceso repetible y adaptativo
 
