@@ -6,7 +6,13 @@ SecDevOps es la practica de integrar practicas o tecnicas de desarrollo y combin
 
 - Sec (seguridad)
 - Dev (desarrollo)
-- ops (operaviones)
+- ops (operaciones)
+
+
+### Beneficios 
+
+La implementacion de SecDevOps implica grandes beneficios durante el desarrollo y tambien durante la puesta a produccion de software
+
 
 
 ### Ciclo de vida SecDevOps
