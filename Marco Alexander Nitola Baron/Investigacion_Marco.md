@@ -19,6 +19,8 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
   ![Imagen de apoyo](https://escoladaprogramacao.com.br/wp-content/uploads/2019/12/Princ%C3%ADpios-da-Entrega-de-Software.jpg)
 
 
+<br>
+<br>
 
 ## _Beneficios_
 
@@ -87,18 +89,29 @@ Para implementar seguridad de DevOps se debe contar con previo conocimiento de u
 | [Monitorizacion continua](#) | monitoreo continuo de servidores y aplicaciones en cuanto a infraestructura y performance.| 
 
 a continuacion una lista de herramientas que se pueden usar para realizar procesos de SecDevOps
+<br>
+<br>
 
 1.[GitHub](https://github.com/) :file_folder:
 : es un servicio web que permite al usuario almacenar, compartir e interactuar con código fuente utilizando Git como sistema de control de versiones
+<br>
+<br>
 
 2.[Jenkins](https://www.jenkins.io/) :wrench:
 : es una de las herramientas DevOps de integración continua que tiene más ventajas sobre otras gracias a sus extensiones de plugins internos y externos. 
 
+<br>
+<br>
+
 3.[Nagios](https://www.nagios.org/) :camera:
 : se trata de un instrumento de monitoreo que te ayuda a ejecutar cosas de forma segura. Puede actuar como tu centro de control para aplicaciones, infraestructura empresarial y servidores. Es ideal para las necesidades de las grandes organizaciones
 
-A continuacion diagrama de implementacion SecDevOps sugerido por microsoft al usar el servicio en la nube _[AZURE](https://azure.microsoft.com/es-es/)_
+<br>
+<br>
 
+A continuacion diagrama de implementacion SecDevOps sugerido por microsoft al usar el servicio en la nube _[AZURE](https://azure.microsoft.com/es-es/)_
+<br>
+<br>
 
  ![Imagen de apoyo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/solutions_devsecops_devsecops-in-azure?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1227&qlt=100&fit=constrain)
 
