@@ -9,27 +9,27 @@ SecDevOps es la practica de integrar practicas o tecnicas de desarrollo y combin
 - ops (operaciones)
 
 
-### Beneficios 
+### _Beneficios_
 
 La implementacion de SecDevOps implica grandes beneficios durante el desarrollo y tambien durante la puesta a produccion de software
 
-1. _Entrega de software rápida y rentable_
+1. Entrega de software rápida y rentable
 
-2. _Seguridad proactiva y mejorada_
+2. Seguridad proactiva y mejorada
 
-3. _Aplicación acelerada de parches a vulnerabilidades de seguridad_
+3. Aplicación acelerada de parches a vulnerabilidades de seguridad
 
-4. _Automatización compatible con el desarrollo moderno_
+4. Automatización compatible con el desarrollo moderno
 
-5. _Un proceso repetible y adaptativo_
-
-
-
-### Ciclo de vida SecDevOps
+5. Un proceso repetible y adaptativo
 
 
 
+### _Ciclo de vida SecDevOps_
 
-### Cualidades de SecDevOps
+
+
+
+### _Cualidades de SecDevOps_
 
 1. 
