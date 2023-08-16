@@ -8,9 +8,9 @@ SecDevOps es la practica de integrar practicas o tecnicas de desarrollo y combin
    e implementacion                      |
 | Termino | Descripcion |
 |-----|:---|
-| [Seguridad](##) |   |
-| [Desarrollo](##) |   |
-| [Operaciones](##) |  |
+| [Seguridad](##) |  Seguridad integrada al procesos de desarrllo e implmentacion de software |
+| [Desarrollo](##) |  Codigo logico y funcional que promueva el funcionamiento de software |
+| [Operaciones](##) | infraestructura de tecnologia que permite el firme funcionamiento del software |
 
 
 ![Imagen de apoyo](https://escoladaprogramacao.com.br/wp-content/uploads/2019/12/Princ%C3%ADpios-da-Entrega-de-Software.jpg)
