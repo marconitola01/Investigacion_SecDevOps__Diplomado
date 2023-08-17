@@ -5,7 +5,8 @@
 SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de operaciones  para lograr  una  mejor convergencia junto a los procesos de seguridad y codigo limpio.
 
 | _SecDevOps como nueva practica para mejorar los procesos de desarrollo e implementacion_   |
-
+<br>
+<br>
 
 | Termino | Descripcion |
 |-----|:---|
@@ -14,6 +15,8 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 | [Operaciones](##) | infraestructura de tecnologia   que permite el firme funcionamiento del software :bar_chart: |
 
 
+<br>
+<br
 
   
   ![Imagen de apoyo](https://escoladaprogramacao.com.br/wp-content/uploads/2019/12/Princ%C3%ADpios-da-Entrega-de-Software.jpg)
