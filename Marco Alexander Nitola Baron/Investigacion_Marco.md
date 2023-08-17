@@ -9,9 +9,9 @@ SecDevOps es la practica de integrar tecnicas de desarrollo y mantenimiento de o
 
 | Termino | Descripcion |
 |-----|:---|
-| [Seguridad](##) |  Seguridad integrada al procesos de desarrllo e implmentacion de software |
-| [Desarrollo](##) |  Codigo logico y funcional que promueva el funcionamiento de software |
-| [Operaciones](##) | infraestructura de tecnologia   que permite el firme funcionamiento del software |
+| [Seguridad](##) |  Seguridad integrada al procesos de desarrllo e implmentacion de software :lock: |
+| [Desarrollo](##) |  Codigo logico y funcional que promueva el funcionamiento de software :hammer: |
+| [Operaciones](##) | infraestructura de tecnologia   que permite el firme funcionamiento del software :bar_chart: |
 
 
 
@@ -127,9 +127,11 @@ A continuacion diagrama de implementacion SecDevOps sugerido por microsoft al us
 
 ## _Referencias_
 
-- https://azure.microsoft.com/en-us/solutions/devsecops/#tabx43d18739f55e4414a04c1a313f2a0912
+- **_https://azure.microsoft.com/en-us/solutions/devsecops/#tabx43d18739f55e4414a04c1a313f2a0912_**
 
-- https://docs.microsoft.com/en-us/learn/modules/secure-your-cloud-data/?ns-enrollment-
-- https://www.cronup.com/devsecops-los-7-factores-claves-para-asegurar-su-practica-devops/
-- https://www.redhat.com/es/topics/devops/what-is-devsecops
+- **_https://docs.microsoft.com/en-us/learn/modules/secure-your-cloud-data/?ns-enrollment-_**
+- **_https://www.cronup.com/devsecops-los-7-factores-claves-para-asegurar-su-practica-devops/_**
+- **_https://www.redhat.com/es/topics/devops/what-is-devsecops_**
+
+
 
