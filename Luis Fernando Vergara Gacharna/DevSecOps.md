@@ -45,7 +45,7 @@ Los equipos de software se concentran en los controles de seguridad durante todo
 
 <br>
 
-## ** ¿Cómo funciona DevSecOps?**
+## **¿Cómo funciona DevSecOps?**
 
 Para implementar DevSecOps, los equipos de software primero deben implementar DevOps y la integración continua.
 
