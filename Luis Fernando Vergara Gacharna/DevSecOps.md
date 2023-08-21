@@ -9,7 +9,7 @@ DevSecOps significa desarrollo, seguridad y operaciones. Es una extensión de la
 
 
 | Desarrollo  | Seguridad | Operaciones |
-|-----|:---|-----|
+|-----|-----|-----|
 | El desarrollo es el proceso de planificación, codificación, creación y prueba de la aplicación. | La seguridad significa introducir la seguridad en una etapa temprana del ciclo de desarrollo de software.|El equipo de operaciones publica, supervisa y corrige cualquier problema que surja del software|
 
 
@@ -45,7 +45,7 @@ Los equipos de software se concentran en los controles de seguridad durante todo
 
 <br>
 
-# **¿Cómo funciona DevSecOps?
+# ** ¿Cómo funciona DevSecOps?
 
 Para implementar DevSecOps, los equipos de software primero deben implementar DevOps y la integración continua.
 
@@ -78,13 +78,13 @@ Para implementar correctamente la práctica de DevSecOps, es necesario tener en 
 
 
 
-Análisis de código | Administración de cambios | Administración del cumplimiento | Modelado de amenazas | Formación en seguridad |
-|-----|:---|-----|------|------|
+|Análisis de código | Administración de cambios | Administración del cumplimiento | Modelado de amenazas | Formación en seguridad |
+|-----|-----|-----|-----|-----|
 
 | El análisis del código se refiere al proceso de investigar el código fuente de una aplicación en busca de vulnerabilidades y garantizar que se ajusta a las prácticas recomendadas de seguridad. | Los equipos de software utilizan herramientas de administración de cambios para realizar un seguimiento de los cambios relacionados con el software o los requisitos, así como para administrarlos e informar sobre estos. De este modo, se evitan vulnerabilidades de seguridad involuntarias ocasionadas por los cambios en el software. | Los equipos de software se encargan de garantizar que el software cumpla con los requisitos regulatorios. Por ejemplo, los desarrolladores pueden utilizar AWS CloudHSM para demostrar el cumplimiento de las normativas de seguridad, privacidad y antimanipulación,como HIPAA, FedRAMP y PCI. | Los equipos de DevSecOps investigan los problemas de seguridad que puedan surgir antes y después de desplegar la aplicación. Corrigen cualquier problema conocido y lanzan una versión actualizada de la aplicación. |La formación en materia de seguridad implica capacitar a los desarrolladores de software y a los equipos de operaciones en cuanto a las directrices de seguridad más recientes. De este modo, los equipos de desarrollo y de operaciones pueden tomar decisiones de seguridad independientes a la hora de crear y desplegar la aplicación. |
 
 
-# **Referencias
+# ** Referencias
 
 - **_https://aws.amazon.com/es/what-is/devsecops/#:~:text=DevSecOps%20es%20la%20pr%C3%A1ctica%20de,que%20sea%20eficiente%20y%20seguro._**
 - **_https://www.redhat.com/es/topics/devops/what-is-devsecops_**
